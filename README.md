@@ -38,7 +38,7 @@ sudo apt-get install mysql-connector-python
 pip install mysql-connector-python
 
 ```
-Now we go to the Python code section in the corresponding IDE( Like vscode:)))) ):
+#### Now we go to the Python code section in the corresponding IDE( Like vscode:)))) ):
 ```diff
 + #import my SQL/Python Connector on CodeSpace
 import mysql.connector
