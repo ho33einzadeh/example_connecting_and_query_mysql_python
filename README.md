@@ -25,4 +25,4 @@ pip install mysql-connector-python
 ```
 Important note::
 Note that if you do not write the word Python at the end of the command, you will encounter this error:
-# mysql.connector.errors.NotSupportedError: Authentication plugin 'caching_sha2_password' is not supported
+mysql.connector.errors.NotSupportedError: Authentication plugin 'caching_sha2_password' is not supported
