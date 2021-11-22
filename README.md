@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+In this project, we will examine how to connect a database with Python code in windows and macOS operating systems
 	
 ## Technologies
 Project is created with:
