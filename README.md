@@ -43,7 +43,7 @@ pip install mysql-connector-python
 + #import my SQL/Python Connector on CodeSpace
 import mysql.connector
 + #Send and Pour Information Database With one variable
-mydb = mysql.connector.connect(host="localhost",user="root",password="senator529",database='test')
+mydb = mysql.connector.connect(host="your host name",user="your user name",password="your pass",database='your database name')
 
 + #Create Cursor on Cmd Structure
 cursor = mydb.cursor()
