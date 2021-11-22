@@ -35,7 +35,7 @@ Note that if you do not write the word 'Python' at the end of the command, you w
 ```
 ### After:
 ```diff
-<!--- @@ --->  pip install mysql-connector-python <!--- @@ ---> 
+@@ pip install mysql-connector-python @@
 
 ```
 #### Now we go to the Python code section in the corresponding IDE( Like vscode:)))) ):
@@ -57,4 +57,6 @@ print(mydb)
 ```
 
 
+#### Important note:
+##### Note that Python must be installed on your system + Python pip must also
 
