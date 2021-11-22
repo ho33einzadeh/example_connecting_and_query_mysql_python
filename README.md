@@ -60,3 +60,15 @@ print(mydb)
 #### Important note:
 ##### Note that Python must be installed on your system + Python pip must also + python and SQL connector Be installed
 
+## A series of MYSQL code commands:
+##### SELECT - extracts data from a database
+##### UPDATE - updates data in a database
+##### DELETE - deletes data from a database
+##### INSERT INTO - inserts new data into a database
+##### CREATE DATABASE - creates a new database
+##### ALTER DATABASE - modifies a database
+##### CREATE TABLE - creates a new table
+##### ALTER TABLE - modifies a table
+##### DROP TABLE - deletes a table
+##### CREATE INDEX - creates an index (search key)
+##### DROP INDEX - deletes an index
