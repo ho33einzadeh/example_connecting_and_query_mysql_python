@@ -40,16 +40,16 @@ pip install mysql-connector-python
 ```
 Now we go to the Python code section in the corresponding IDE( Like vscode:)))) ):
 ```diff
-- #import my SQL/Python Connector on CodeSpace
++ #import my SQL/Python Connector on CodeSpace
 import mysql.connector
-- #Send and Pour Information Database With one variable
++ #Send and Pour Information Database With one variable
 mydb = mysql.connector.connect(host="localhost",user="root",password="senator529",database='test')
 
-- #Create Cursor on Cmd Structure
++ #Create Cursor on Cmd Structure
 cursor = mydb.cursor()
-- #Execute MySQL Code On CMD space
++ #Execute MySQL Code On CMD space
 cursor.execute(cursor.execute('INSERT INTO people VALUES ("YOUR VALUEWS)')
-- #do 
++ #do 
 mydb.commit()
 cursor.close()
 mydb.close() 
