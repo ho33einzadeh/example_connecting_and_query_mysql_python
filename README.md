@@ -1,5 +1,5 @@
-# example_connecting_mysql_python
-An example of Connecting a MySQL Database with Python Code
+
+# An example of Connecting a MySQL Database with Python Code
 
 ## Table of contents
 * [General info](#general-info)
