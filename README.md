@@ -16,10 +16,11 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project,You must first install the Python connector and the mysql database on the system:
+in Cmd(Windows Command Line)(os = windows) or Terminal(os= MacOs)
 
+### in Windows Command Line:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+pip install mysql-connector-python
+
 ```
