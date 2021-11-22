@@ -16,8 +16,9 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
-To run this project,You must first install the Python connector and the mysql database on the system:
+* To run this project,You must first install the Python connector and the mysql database on the system:
 in Cmd(Windows Command Line)(os = windows) or Terminal(os= MacOs)
+
 
 ### in Windows Command Line(CMD):
 ```
@@ -27,3 +28,12 @@ pip install mysql-connector-python
 Note that if you do not write the word 'Python' at the end of the command, you will encounter this error:
 
 * mysql.connector.errors.NotSupportedError: Authentication plugin 'caching_sha2_password' is not supported
+### in Terminal MacOs:
+```
+sudo apt-get install mysql-connector-python
+```
+#After:
+```
+pip install mysql-connector-python
+
+```
