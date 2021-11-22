@@ -13,7 +13,7 @@ This project is simple Lorem ipsum dolor generator.
 Project is created with:
 * Python version: 3.10.0
 * pip version: 21.3.1
-* Mysql Connector python: > http://127.0.0.1/shortlink/www.google.fr&custom=google
+* Mysql Connector python Version for win64: > https://bit.ly/3HJg57l
 	
 ## Setup
 * To run this project,You must first Step install the Python connector and the mysql database on the system:
@@ -58,5 +58,5 @@ print(mydb)
 
 
 #### Important note:
-##### Note that Python must be installed on your system + Python pip must also
+##### Note that Python must be installed on your system + Python pip must also + python and SQL connector Be installed
 
