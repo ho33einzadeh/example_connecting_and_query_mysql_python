@@ -38,4 +38,21 @@ sudo apt-get install mysql-connector-python
 pip install mysql-connector-python
 
 ```
+Now we go to the Python code section in the corresponding IDE:
+```
+#import my SQL/Python Connector on CodeSpace
+import mysql.connector
 
+#Send and Pour Information Database With one variable
+mydb = mysql.connector.connect(host="localhost",user="root",password="senator529",database='test')
+
+#Create Cursor on Cmd Structure
+cursor = mydb.cursor()
+#Execute MySQL Code On CMD space
+cursor.execute(cursor.execute('INSERT INTO people VALUES ("YOUR VALUEWS)')
+#do 
+mydb.commit()
+cursor.close()
+mydb.close() 
+print(mydb)
+```
