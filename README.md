@@ -32,7 +32,7 @@ Note that if you do not write the word 'Python' at the end of the command, you w
 ```
 sudo apt-get install mysql-connector-python
 ```
-# After:
+### After:
 ```
 pip install mysql-connector-python
 
