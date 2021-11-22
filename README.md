@@ -16,8 +16,9 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
-* To run this project,You must first install the Python connector and the mysql database on the system:
+* To run this project,You must first Step install the Python connector and the mysql database on the system:
 in Cmd(Windows Command Line)(os = windows) or Terminal(os= MacOs)
+* In the second Step, we write a series of Python code related to the database connection in the IDE
 
 
 ### in Windows Command Line(CMD):
@@ -37,3 +38,4 @@ sudo apt-get install mysql-connector-python
 pip install mysql-connector-python
 
 ```
+
