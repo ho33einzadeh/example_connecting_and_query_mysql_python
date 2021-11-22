@@ -1,6 +1,6 @@
 
 # An example of Connecting a MySQL Database with Python Code And How to install
-`![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =1024x768)`
+`![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =1080*1080)`
 
 
 ## Table of contents
