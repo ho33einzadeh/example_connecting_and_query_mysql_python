@@ -1,7 +1,7 @@
 
 # An example of Connecting a MySQL Database with Python Code And How to install
 
-
+![](https://https://ibb.co/dJXDNcm)
 
 ## Table of contents
 * [General info](#general-info)
