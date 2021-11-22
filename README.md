@@ -22,20 +22,20 @@ in Cmd(Windows Command Line)(os = windows) or Terminal(os= MacOs)
 
 
 ### in Windows Command Line(CMD):
-```
-pip install mysql-connector-python
+```diff
+- pip install mysql-connector-python
 ```
 #### Important note:
 Note that if you do not write the word 'Python' at the end of the command, you will encounter this error:
 
 * mysql.connector.errors.NotSupportedError: Authentication plugin 'caching_sha2_password' is not supported
 ### in Terminal MacOs:
-```
-sudo apt-get install mysql-connector-python
+```diff
+- sudo apt-get install mysql-connector-python
 ```
 ### After:
-```
-pip install mysql-connector-python
+```diff
+- pip install mysql-connector-python
 
 ```
 #### Now we go to the Python code section in the corresponding IDE( Like vscode:)))) ):
