@@ -9,7 +9,7 @@
 * [Setup](#setup)
 
 ## General info
-In this project, we will examine how to connect a database with Python code in windows and macOS operating systems
+In this project, we will examine how to connect a database  and Query data with Python code in windows and macOS operating systems
 	
 ## Technologies
 Project is created with:
