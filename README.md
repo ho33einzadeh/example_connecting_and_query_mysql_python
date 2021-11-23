@@ -1,5 +1,5 @@
 
-# An example of Connecting a MySQL Database with Python Code And How to install
+# An example of Connecting And Query Data a MySQL Database with Python Code And How to install
 
 ![](https://s21.picofile.com/file/8444189792/Untitled_1.png)
 
